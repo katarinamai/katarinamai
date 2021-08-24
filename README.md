@@ -1,4 +1,4 @@
-## Olá, Eu sou a katarina! 😊
+## Olá, Eu sou a Katarina! 😊
  <div>
   <a href="https://github.com/katarinamai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katarinamai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
